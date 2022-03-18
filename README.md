@@ -1,2 +1,2 @@
-# Johonson-Algorithm
+# Johnson-Algorithm
 Implement Johnson Algorithm in Rust to find all the simple cycles in directed graph
